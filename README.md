@@ -5,7 +5,7 @@ A development kit for NodeMCU firmware.
 
 It will make NodeMCU more easy. With a micro USB cable, you can connect NodeMCU devkit to your laptop and flash it without any trouble, just like Arduino.
 
-![DEVKIT](https://raw.githubusercontent.com/nodemcu/nodemcu-devkit-v1.0/master/Documents/NodeMCU_DEVKIT_1.0.jpg)
+![DEVKIT](https://raw.githubusercontent.com/MegaCreater/nodemcu/main/NodeMCU_1.0.jpg)
 
 It is an open hardware, with ESP-12-E core [32Mbits(4MBytes) flash version].
 
@@ -25,7 +25,7 @@ When our firmware download tool released, it will flash firmware automatically a
 
 ## Pin map
 
-![PIN MAP](https://raw.githubusercontent.com/nodemcu/nodemcu-devkit-v1.0/master/Documents/NODEMCU_DEVKIT_V1.0_PINMAP.png)
+![PIN MAP](https://raw.githubusercontent.com/MegaCreater/nodemcu/main/NodeMCU_1_0_PIN.jpg)
 
 It is designed by Altium Designer, and fully open–source. Now everyone can make their own NODEMCU.
 
